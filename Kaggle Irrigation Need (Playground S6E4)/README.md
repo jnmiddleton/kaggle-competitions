@@ -108,6 +108,7 @@ The project follows a deliberate benchmarking methodology, progressing from a si
 | File | Description |
 |------|-------------|
 | `Kaggle_IrrigationNeed_ML.ipynb` | Full modelling notebook |
+| `.gitattributes` | Force GitHub to recognize Python as the project's language |
 
 ---
 
