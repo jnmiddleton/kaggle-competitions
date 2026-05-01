@@ -13,5 +13,25 @@ Each folder contains the full notebook, a curation of relevent figures, and a co
 
 ---
 
+## Repository Structure
+```
+kaggle-competitions/
+├── README.md
+└── Kaggle Irrigation Need (Playground S6E4)/
+        ├── README.md
+        ├── Kaggle_IrrigationNeed_ML.ipynb
+        ├── model_comparison_full.png
+        ├── decision_tree_confusion_matrix.png
+        ├── decision_tree_feature_importance.png
+        ├── random_forest_confusion_matrix.png
+        ├── random_forest_feature_importance.png
+        ├── LGBM_confusion_matrix.png
+        ├── LGBT_feature_importance.png
+        ├── xgboost_confmatrix_featimportance.png
+        └── catboost_confmatrix_featimportance.png
+```
 
-*Additional competitions will be added here as completed.*
+---
+
+
+*As additional competitions are completed, a new folder will be created for each following the same structure.*
