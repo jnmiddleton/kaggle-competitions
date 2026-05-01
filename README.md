@@ -19,6 +19,7 @@ kaggle-competitions/
 ├── README.md
 └── Kaggle Irrigation Need (Playground S6E4)/
         ├── README.md
+        ├── .gitattributes
         ├── Kaggle_IrrigationNeed_ML.ipynb
         ├── model_comparison_full.png
         ├── decision_tree_confusion_matrix.png
